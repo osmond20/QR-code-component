@@ -26,7 +26,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [QR Code Component](https://osmond20.github.io/QR-code-component/)
 
 ## My process
 I used AI to to give me a breakdown of what are the elements used in HTML and CSS to create the project. Then I would learn it and employ memory retrieval when building the project to test my knowledge and do it without using AI to help me as much, because the objective is try to gather knoweledge from the application of the information I learned.
@@ -66,7 +66,7 @@ I will certainly be focusing on responsive design, and looking to strengthen my 
 
 ## Author
 
-- Website - [QR code site](https://www.your-site.com)
+- Website - [QR code site](hhttps://osmond20.github.io/QR-code-component/)
 - Frontend Mentor - [@osmond20](https://www.frontendmentor.io/profile/osmond20)
 - Github - [osmond20](https://github.com/osmond20?preview=true&tab=repositories)
 
