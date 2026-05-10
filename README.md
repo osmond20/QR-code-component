@@ -16,8 +16,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -31,7 +29,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
-I used AI to to give me a breakdown of what are the elements used in HTML and CSS to create the project. Then I would learn it and employ memory retrieval when building the project to test my knowledge and do it without using AI  to help me as much, because the objective is try to gather knoweledge from the application of the information I learned.
+I used AI to to give me a breakdown of what are the elements used in HTML and CSS to create the project. Then I would learn it and employ memory retrieval when building the project to test my knowledge and do it without using AI to help me as much, because the objective is try to gather knoweledge from the application of the information I learned.
 ### Built with
 
 - Semantic HTML5 markup
@@ -41,7 +39,7 @@ I used AI to to give me a breakdown of what are the elements used in HTML and CS
 
 ### What I learned
 
-This project really tested how I could use flexbox and apply it, I learned how flexbox can help with positional alignment of elements on a webpage and how it remain consist across different screens and be used to mitigate layout incongruencies. I learned about myself as well, that there was an urge to be perfect rather than attempt, and submit and let the feedback guide you, on what to focus on.
+This project really tested how I could use flexbox and apply it, I learned how flexbox can help with positional alignment of elements on a webpage and how it can remain consistent across different screen sizez and be used to mitigate layout incongruencies. I learned about myself as well, as I discovered that I would have an urge to be perfect rather than attempt, and submit even if it is not perfect and let what is imperfect reveal guide you, on what to focus on.
 
 code snippet:
 
@@ -59,11 +57,11 @@ I will certainly be focusing on responsive design, and looking to strengthen my 
 
 ### Useful resources
 
-- [mdn web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/align-content) - This helped understand the attributes of flexbox better such as align-content and justify content alot more. I really appreciated the opporuntity to practice the information quickly see what it does and then I could then try and apply in the project and then learn more from there.
+- [mdn web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/align-content) - This helped me understand the attributes of flexbox better such as align-content and justify content alot more. I really appreciated the opporuntity to practice the information quickly, see what it does and then I could then try and apply in the project and then learn more from there.
 - [Web dev](https://web.dev/) - This platform from Google helped me gather more information on HTML and the intricacies in understanding semantic elements more better
 
 ### AI Collaboration
- I used Gemini for this one, and it helped provide a roadmap or pathway, if you will, to focus on certain topics where I could learn the information, necessary to give me the opportunity to attempt to solve the problem. It worked well for me on the research side, and applying it really helped when applying the information, however I did notice knowledge gaps and that I required that could have further given a different opportunity to apply and attempt to solve the problem in a different way.
+ I used Gemini for this one, and it helped provide a roadmap or pathway, if you will, to focus on certain topics where I could learn the information, necessary to give me the opportunity to attempt to solve the problem. It worked well for me on the research side, and applying it really helped when applying the information, however I did notice knowledge gaps and that I required that further information.
 
 ## Author
 
@@ -73,4 +71,4 @@ I will certainly be focusing on responsive design, and looking to strengthen my 
 
 ## Acknowledgments
 
-I would have had the opportunity to try out this challenge if thecodercoder didn't mention in one of her youtube videos. I am grateful and appreactive of that as I get to get better at coding frontend :).
+I wouldn't have had the opportunity to try out this challenge if thecodercoder didn't mention it in one of her youtube videos. I am grateful and appreactive of that as I get to get better at coding frontend :).
