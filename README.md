@@ -59,13 +59,14 @@ I will certainly be focusing on responsive design, and looking to strengthen my 
 
 - [mdn web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/align-content) - This helped me understand the attributes of flexbox better such as align-content and justify content alot more. I really appreciated the opporuntity to practice the information quickly, see what it does and then I could then try and apply in the project and then learn more from there.
 - [Web dev](https://web.dev/) - This platform from Google helped me gather more information on HTML and the intricacies in understanding semantic elements more better
+- [Github Pages] () - It was my first time to learning how to deploy a live website, which is so cool!
 
 ### AI Collaboration
  I used Gemini for this one, and it helped provide a roadmap or pathway, if you will, to focus on certain topics where I could learn the information, necessary to give me the opportunity to attempt to solve the problem. It worked well for me on the research side, and applying it really helped when applying the information, however I did notice knowledge gaps and that I required that further information.
 
 ## Author
 
-- Website - [Nkosinathi Mothudi](https://www.your-site.com)
+- Website - [QR code site](https://www.your-site.com)
 - Frontend Mentor - [@osmond20](https://www.frontendmentor.io/profile/osmond20)
 - Github - [osmond20](https://github.com/osmond20?preview=true&tab=repositories)
 
