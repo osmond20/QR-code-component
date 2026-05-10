@@ -9,14 +9,14 @@ body{
 
 main{
     display: flex;
-    align-content: center;
+    align-items: center;
     justify-content: center;
     width: 100%;
     margin-top: 150px;
     margin-bottom: 150px;
 }
 
-.Card{
+.card{
     width: 350px;
     height: 550px;
     border-radius: 20px;
@@ -26,7 +26,7 @@ main{
     flex-direction: column;
 }
 
-.cardImg{
+.card_img{
     width:320px;
     margin-left: 15px;
     margin-top: 5px;
@@ -34,13 +34,13 @@ main{
     border-radius: 10px;
 }
 
-.CardContainer{
+.card_container{
     box-sizing: border-box;
     padding-left: 20px;
     padding-right: 20px;
 }
 
-.headingElement{
+.heading_element{
     font-size: 1.5em;
     text-align: center;
     font-weight: 700;
